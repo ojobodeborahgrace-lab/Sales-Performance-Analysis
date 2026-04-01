@@ -93,9 +93,10 @@ The Excel dashboard includes:
 
 ##  Dashboard Preview
 
-*(Dashboard)*
 
----
+
+---<img width="813" height="565" alt="sales-Performance-Analysis" src="https://github.com/user-attachments/assets/2eb03f35-426f-4536-955f-80c760f2fdf9" />
+
 
 ##  Project Files
 
